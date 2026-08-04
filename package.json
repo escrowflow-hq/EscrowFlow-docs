@@ -1,0 +1,7 @@
+{
+  "name": "escrowflow-docs",
+  "version": "1.0.0",
+  "description": "Documentation for EscrowFlow — escrow payments for global freelancers, built on Stellar",
+  "private": true,
+  "license": "MIT"
+}
