@@ -33,6 +33,7 @@ EscrowFlow is milestone-based escrow for global freelance payments. Clients fund
 | [Getting Started](docs/guides/getting-started.md) | Try EscrowFlow end-to-end in 5 minutes |
 | [Local Setup](docs/guides/local-setup.md) | Run all 5 repos locally |
 | [Deployment](docs/guides/deployment.md) | How EscrowFlow is deployed to production |
+| [Mobile App](docs/guides/mobile-app.md) | Installation, features, architecture, and dev setup for the React Native app |
 | [Team](docs/team.md) | Founders, contributors, contact |
 | [Roadmap](docs/roadmap.md) | Phase 1–3 plan |
 
